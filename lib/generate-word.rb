@@ -1,6 +1,6 @@
 require 'json'
 
-class RandomWord
+class GenerateWord
   def self.noun
     file = File.read('./assets/noun.json')
     nouns = JSON.parse(file)
