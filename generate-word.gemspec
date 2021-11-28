@@ -1,7 +1,7 @@
 Gem::Specification.new do |s|
   s.required_ruby_version = '>= 2.5.0'
   s.name        = 'generate-word'
-  s.version     = '0.0.1'
+  s.version     = '0.0.2'
   s.description = "Generate random english noun words"
   s.summary     = "Generate random words"
   s.authors     = ["Twinkle Verma"]
